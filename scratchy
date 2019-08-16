@@ -5,8 +5,9 @@ Created on Thu Aug  8 12:39:27 2019
 
 ANN from scratch - the hard way!
 
-from https://towardsdatascience.com/neural-networks-from-scratch-easy-vs-hard-b26ddc2e89c7
-and http://neuralnetworksanddeeplearning.com/chap3.html
+References:
+- https://towardsdatascience.com/neural-networks-from-scratch-easy-vs-hard-b26ddc2e89c7
+- http://neuralnetworksanddeeplearning.com/chap3.html
 
 Artificial neural network architecture:
     1. input layer = 64 neurons (input image array)

@@ -1,6 +1,6 @@
 # my-neural-network
 
-My attempt at creating a basic neural network from scratch! 
+My attempt at creating a basic neural network from scratch on Python. Python version 3.7.
 
 Artificial neural network architecture:
 
